@@ -20,3 +20,7 @@ pytest projects/16-sales-analytics -q
 - Named segments (champion / loyal / at risk / lost) an analyst can act on
 - Cohort retention matrix keyed on each customer's first purchase month
 - Revenue share per segment to prioritise retention spend
+
+## Repository
+- GitHub: https://github.com/{owner}/sales-analytics
+- Python 3.11+ · tests: `pytest` · runtime dependencies: none (standard library only)
